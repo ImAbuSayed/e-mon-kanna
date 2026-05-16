@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/e-mon-kanna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for E Mon Kanna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/e-mon-kanna/) |
+| **Get License** | [Request Licensing for E Mon Kanna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/e-mon-kanna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের বুকে তোমার ছোঁয়া, উষ্ণ মায়ায় মাখা
+> তোমার কাছেই আমার এই মন, অবুঝ হয়ে থাকা
+> এ মন কান্না বোঝো কি তুমি, ডাকছি তোমায় কাছে
+> তোমার প্রেমেই পাগল আমি, হৃদয় জুড়ে নাচে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
