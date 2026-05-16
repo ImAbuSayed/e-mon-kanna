@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - E Mon Kanna
+
+This log tracks the cryptographic history and versioning for the song **E Mon Kanna** (e-mon-kanna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T11:20:17.408077 | `v1` | `7b45b6cc8c6207f79785eb66ed81847bdbcf30a4df2c39bf8d1c359fb8e8f512` | `5b7ec17f4bf50b03713e410145fe9b1eaa48168c03838dbbb351418b2350a78d` | `2026-05-16_e-mon-kanna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
